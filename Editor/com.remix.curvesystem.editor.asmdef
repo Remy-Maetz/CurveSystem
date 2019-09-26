@@ -1,0 +1,15 @@
+{
+    "name": "com.remix.curvesystem.editor",
+    "references": [
+        "GUID:524462cf6b91b0b4c874361821c393ca"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
